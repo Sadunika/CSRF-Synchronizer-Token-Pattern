@@ -1,10 +1,11 @@
 # CSRF-Synchronizer-Token-Pattern
 
-Deploy using XAMPP
+Deploy using XAMPP : -
 
 Copy the project folder inside C:\xampp\htdocs 
 
-Run 
+
+Run : - 
 
 Start XAMPP
 Use the address "localhost/CSRF-Synchronizer-Token-Pattern" to open the project in the browser.
